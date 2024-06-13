@@ -1,1 +1,1 @@
-# nifit viewer project 
+# nifti viewer project 
